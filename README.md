@@ -54,7 +54,7 @@ UTILISATION
 -----------
 Pour lancer la matinale, exécutez simplement le script principal :
 
-> python vibe_radio.py
+> deep_dive.py
 
 Le processus :
 1. Une fenêtre s'ouvre pour l'autorisation Gmail (uniquement la première fois).
