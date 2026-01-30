@@ -3,7 +3,6 @@ PROJET : AVOLTA DEEP DIVE RADIO
 
 DESCRIPTION
 -----------
-De la Newsletter au Podcast VC en un clic.
 
 Ce projet automatise la veille technologique hebdomadaire. Il récupère les newsletters de levées de fonds (Avolta), analyse les deals, enrichit les données avec une recherche de marché, et génère un briefing radio audio prêt à être diffusé.
 
@@ -11,9 +10,9 @@ Ce projet automatise la veille technologique hebdomadaire. Il récupère les new
 FONCTIONNALITES
 ---------------
 * Ingestion Automatique : Connexion sécurisée à l'API Gmail pour récupérer les newsletters "news@avolta.io" des 7 derniers jours.
-* Extraction Intelligente : Utilisation de Google Gemini 1.5 Flash pour nettoyer le HTML et extraire les données structurées (Startups, Montants).
+* Extraction Intelligente : Utilisation de Google Gemini 2.5 Flash pour nettoyer le HTML et extraire les données structurées (Startups, Montants).
 * Enrichissement VC : Agent autonome qui utilise DuckDuckGo pour analyser le Business Model et les concurrents de chaque startup.
-* Rédaction "On Air" : Google Gemini 1.5 Pro rédige un script radio dynamique avec un ton "Venture Capitalist" (analogies, analyse de marché).
+* Rédaction "On Air" : Google Gemini 2.5 Pro rédige un script radio dynamique avec un ton "Venture Capitalist" (analogies, analyse de marché).
 * Audio High-End : Génération vocale via ElevenLabs (Multilingual v2) pour un rendu parfait du mélange Français/Anglais Tech.
 
 
